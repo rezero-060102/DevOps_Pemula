@@ -1,0 +1,34 @@
+Panduan Memilih Bahasa untuk DevOps
+
+Calon profesional DevOps sering bertanya-tanya bahasa apa yang harus mereka pelajari untuk mengejar karier mereka. Meskipun ada banyak bahasa yang dapat dipilih, penting untuk fokus pada bahasa yang relevan dengan ekosistem DevOps. Dalam artikel ini, kami akan membahas dua kategori bahasa pemrograman dan bahasa shell serta merekomendasikan beberapa bahasa yang paling umum digunakan oleh praktisi DevOps.
+
+Bahasa Pemrograman
+Ada banyak bahasa pemrograman yang tersedia, tetapi tidak semuanya relevan dengan DevOps. Rekomendasi pribadi saya adalah memilih Python atau Go. Kedua bahasa tersebut memiliki kelebihan dan kasus penggunaan yang berbeda, tetapi keduanya banyak digunakan dalam komunitas DevOps.
+
+Ular piton
+Python adalah bahasa tingkat tinggi yang ditafsirkan dan populer untuk berbagai kasus penggunaan dalam ekosistem DevOps. Python didukung di hampir setiap sistem dan bersifat lintas platform, menjadikannya bahasa yang serbaguna untuk dipelajari. Python dapat digunakan untuk membuat skrip dan untuk melakukan tugas otomatisasi dan pengembangan.
+
+Python berguna untuk berbagai alat DevOps, seperti alat manajemen konfigurasi dan manajemen paket seperti Ansible dan SaltStack. Python juga digunakan untuk membuat antarmuka baris perintah seperti Azure CLI dan AWS CLI. Keunggulan lain Python adalah mudah dipelajari dibandingkan dengan bahasa pemrograman lain.
+
+Jika Anda ingin mempelajari Python, fokuslah pada Python 3 karena Python 2 akan segera dihentikan pada akhir Januari 2020. Sumber yang bagus untuk memulai mengotomatiskan tugas dengan Python adalah buku " Automate the Boring Stuff ".
+
+Pergi
+Go adalah bahasa pemrograman sumber terbuka yang diterbitkan oleh Google pada tahun 2009. Awalnya, bahasa ini dirancang dengan mempertimbangkan jaringan dan sistem terdistribusi. Namun, Go dengan cepat menjadi bahasa yang populer di bidang DevOps, terutama untuk teknologi kontainer.
+
+Kubernetes, Docker, dan teknologi kontainer lainnya semuanya ditulis dalam Go. Saat mengembangkan dan memahami alat-alat ini, Go merupakan bahasa yang penting untuk dipelajari. Selain itu, Go bersifat konkuren dan memiliki garbage collection, menjadikannya bahasa yang populer untuk membangun sistem yang dapat diskalakan.
+
+Bahasa Shell
+Bahasa shell sangat penting bagi praktisi DevOps karena menyediakan cara untuk mengotomatiskan tugas dan menjalankan skrip. Rekomendasi pribadi saya adalah memilih Bash atau PowerShell Core. Bash adalah sesuatu yang mungkin akan Anda temui jika bekerja dengan server Linux, sedangkan PowerShell Core adalah bahasa lintas platform yang dikembangkan oleh Microsoft.
+
+Pesta
+Bash adalah bahasa shell Unix yang digunakan secara luas dalam ekosistem Linux. Jika Anda bekerja dengan perusahaan yang sebagian besar menggunakan Linux, maka mempelajari bash sangatlah dianjurkan. Bash juga lazim dalam komunitas DevOps karena banyak tugas yang terkait dengan DevOps memerlukan lingkungan seperti Unix.
+
+Inti PowerShell
+PowerShell Core adalah bahasa shell lintas platform sumber terbuka yang dikembangkan oleh Microsoft. Jika Anda bekerja dengan server Windows, sebaiknya pelajari PowerShell Core. Salah satu keuntungan menggunakan PowerShell Core adalah Anda dapat dengan mudah menerjemahkannya ke Windows PowerShell. Selain itu, PowerShell Core juga dapat diinstal di Linux.
+
+Kesimpulan
+Python dan Go adalah bahasa pemrograman yang kami rekomendasikan untuk praktisi DevOps. Kedua bahasa tersebut digunakan secara luas dan memiliki kasus penggunaan yang berbeda. Python adalah bahasa yang mudah dipelajari yang dapat digunakan untuk tugas-tugas otomatisasi dan pengembangan, sementara Go adalah bahasa yang digunakan bersamaan dan populer untuk membangun sistem yang dapat diskalakan.
+
+Untuk bahasa shell, Bash dan PowerShell Core direkomendasikan. Bash digunakan secara luas dalam ekosistem Linux, sedangkan PowerShell Core adalah bahasa lintas platform yang dikembangkan oleh Microsoft.
+
+Ingat, selalu pilih bahasa yang paling sesuai dengan lingkungan Anda dan akan memberikan nilai tambah pada pekerjaan Anda. Selamat belajar!
