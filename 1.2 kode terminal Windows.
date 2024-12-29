@@ -1,0 +1,11 @@
+ipconfig: Memberikan gambaran dasar tentang konfigurasi jaringan.
+ipconfig /all: Menyediakan detail lengkap konfigurasi jaringan.
+ipconfig /all | findstr DNS: Fokus pada informasi DNS untuk membantu analisis atau debugging jaringan.
+ipconfig /release : Perintah ini digunakan untuk melepaskan alamat IP yang saat ini dialokasikan ke adaptor jaringan dari server DHCP (Dynamic Host Configuration Protocol).
+ipconfig /release "wi-fi" : 
+ipconfig /displaydns : 
+ipconfiig /displaydns | clip
+ipconfig /flushdns
+nslookup networkchuck.com 
+nslookup networkchuck.coffe 8.8.8.8
+nslookup -type=mx netwokchuck.com
