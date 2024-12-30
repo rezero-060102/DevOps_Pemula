@@ -1,0 +1,10 @@
+Bahasa Inggris FreeBSD
+FreeBSD adalah sistem operasi mirip Unix yang gratis dan bersumber terbuka yang merupakan turunan dari Berkeley Software Distribution (BSD). Dikenal karena stabilitas, kinerja, dan kemampuan jaringannya yang canggih, FreeBSD populer untuk lingkungan server, sistem tertanam, dan sebagai basis untuk peralatan jaringan. Sistem ini memiliki kernel monolitik, seperangkat utilitas userland yang komprehensif, dan koleksi port untuk kemudahan instalasi perangkat lunak. FreeBSD mendukung berbagai arsitektur dan mencakup fitur-fitur canggih seperti sistem berkas ZFS, jail untuk kontainerisasi, dan filter paket pf. Meskipun kurang umum di lingkungan desktop, sistem ini banyak digunakan dalam infrastruktur internet, sistem penyimpanan, dan oleh perusahaan yang membutuhkan OS yang tangguh dan dapat disesuaikan dengan lisensi yang permisif.
+
+Kunjungi sumber daya berikut untuk mempelajari lebih lanjut:
+- https://www.freebsd.org/
+- https://www.freebsd.org/projects/newbies/
+- https://docs.freebsd.org/en/
+- https://docs.freebsd.org/en/books/handbook/
+- https://www.youtube.com/watch?v=NKHzcXwTdB4
+
